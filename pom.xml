@@ -68,7 +68,7 @@
 
     <properties>
         <assembly.plugin.version>2.6</assembly.plugin.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <compiler.plugin.version>3.5.1</compiler.plugin.version>
         <gpg.plugin.version>1.6</gpg.plugin.version>
         <invoker.plugin.version>2.0.0</invoker.plugin.version>
